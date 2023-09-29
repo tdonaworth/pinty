@@ -38,7 +38,8 @@ locahost:8080 for demos of exfiltration and the challenges of
 developer tool security. You have been warned.
 
 If you read this far, congrats, you caught me! Now you can continue
-with docs from the original project.
+with docs from the original project. Original credit goes to AJ Stein.
+This is a fork simply for prosparity, and future demonstration.
 
 Pint is a Python package to define, operate and manipulate physical
 quantities: the product of a numerical value and a unit of measurement.
